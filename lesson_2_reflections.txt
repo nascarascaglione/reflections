@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 As of now, it's the only way I know to add new directories to use in Git from the command line.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area takes a snapshot of the working directory, but doesn't just throw it in the repository for everyone to see.  It's almost an "Are you sure?" moment for a developer so that they don't have to commit everything immediately.
+

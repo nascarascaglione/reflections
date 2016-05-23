@@ -1,0 +1,23 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The biggest problem in coding is finding where the mistake you know you made lies.  The diff function is a golden tool to help solve these issues.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I'm a strong believer that the best lessons come from our mistakes.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Automation doesn't exactly equal efficency.  Manually comitting allows me to decide what changes are drastic enough that I will need to rely on version control to save me from a mistake.  Google Docs could save me from time to time where manually comitting would not, however digging through all changes every time I need to revert is not the efficient way to manage version control.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I would guess that Git is more of a developer tool, so in many instances you'll have files that rely on one another, while Google Docs can be used for a myriad of applications in a job.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Command line is an incredible tool if you know all it's secrets!
+
+How might using version control make you more confident to make changes that could break something?
+
+Knowing that you have a backup, and especially a description of when you were about to make that change, in list form, makes it much easier to quickly revert back when running a test.
